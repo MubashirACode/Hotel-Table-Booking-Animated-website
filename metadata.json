@@ -1,0 +1,6 @@
+{
+  "name": "Grand Horizon Hotel & Grill",
+  "description": "Premium luxury hotel robata grill restaurant website with live video background, artisanal dining menu, guest gallery, reviews, and online table reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
